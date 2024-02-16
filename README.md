@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorianpeters
-- 👀 I’m interested in linux and open source software.
-- 🌱 I’m currently learning and studying for the CompTIA Linux+ certification.
+- 👀 I’m interested in cybersecurity, law, and web development
+- 🌱 I’m currently learning and studying web development through The Odin Project
 - 📫 How to reach me ...dpeters08@gmail.com
 
 <!---
